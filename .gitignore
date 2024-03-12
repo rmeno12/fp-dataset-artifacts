@@ -1,2 +1,6 @@
 *.pyc
 output/
+.env/
+__pycache__/
+eval_outputs/
+trained_models/
